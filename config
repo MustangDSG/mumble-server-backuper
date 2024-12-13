@@ -1,0 +1,5 @@
+# Configuration variables for paths
+CONFIG_FILE="/etc/mumble-server.ini"
+DB_FILE="/var/lib/mumble-server/mumble-server.sqlite"
+BACKUP_DIR="./backups"
+SERVER_USER="mumble-server"  # Specify the user under which the server runs
